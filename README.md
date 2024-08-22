@@ -1,1 +1,6 @@
-# accredify-dashboard
+# Accredify dashboard
+
+`
+  yarn dev
+`
+to start
